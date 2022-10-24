@@ -14,19 +14,19 @@ I like to do little side projects to experiment with new technologies and put my
 
 Here my goal was to develop a machine learning model that could classify skin images into one of eight different disease categories. The model achieved >50% accuracy, which isn't great, but better than random guessing.
 
-[Demo](https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496)
+[Demo and Code](https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496)
 
 ## Diffie-Hellman toy implementation (Vue.js, HTML)
 
 Here my goal was to implement some of the foundational pieces of cryptography from scratch as a means of understanding them better.
 
-[Demo](https://replit.com/@liuman2/DiffieHellmanDemo)
+[Demo and Code](https://replit.com/@liuman2/DiffieHellmanDemo)
 
 ## Forward Error Correction toy implementation (Javascript, HTML)
 
 Here my goal was to better understand Forward Error Correction technology by making a toy implementation.
 
-[Demo](https://replit.com/@liuman2/ForwardErrorCorrectionDemo)
+[Demo and Code](https://replit.com/@liuman2/ForwardErrorCorrectionDemo)
 
 # Writing
 
