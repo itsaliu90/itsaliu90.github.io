@@ -2,6 +2,8 @@
 
 Nice to meet you. This is one of my little spaces on the web. Welcome!
 
+<img src="https://github.com/yuningalexliu/yuningalexliu.github.io/blob/main/profile.jpeg?raw=true" alt="profile_pic" width="200"/>
+
 My goal with this site is to showcase some of the things I have made or written. Feel free to poke around!
 
 # Projects
@@ -46,7 +48,7 @@ I am open to either engineering or product consulting opportunities. You can fin
 
 ## Printmaking
 
-Sometimes I like to do printmaking for fun. Here is a sampling:
+Sometimes I like to do printmaking for fun.
 
 <img src="https://i.redd.it/5pzwp7u9jji61.jpg" alt="drawing" width="200"/>
 
