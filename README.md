@@ -4,7 +4,9 @@ Nice to meet you. This is one of my little spaces on the web. Welcome!
 
 My goal with this site is to showcase some of the things I have made or written. Feel free to poke around!
 
-# Side projects
+# Projects
+
+I like to do little side projects to experiment with new technologies and put my learning into practice.
 
 ## Dermatology skin classification (Python, Jupyter, Keras)
 
@@ -44,12 +46,8 @@ I am open to either engineering or product consulting opportunities. You can fin
 
 ## Printmaking
 
-Sometimes I like to do printmaking for fun. Here are some of my favorite prints:
+Sometimes I like to do printmaking for fun. Here is a sampling:
 
 <img src="https://i.redd.it/5pzwp7u9jji61.jpg" alt="drawing" width="200"/>
 
 _Chickadees at Christmas_
-
-
-
-_Into the Everlasting Dawn_
