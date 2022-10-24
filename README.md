@@ -28,8 +28,24 @@ Here my goal was to better understand Forward Error Correction technology by mak
 
 Here are some pieces of online writing that I put effort into:
 
+[Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
+
 [No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
 
 [The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
 [Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
+
+# Random
+
+## Printmaking
+
+Sometimes I like to do printmaking for fun. Here are some of my favorite prints:
+
+<img src="https://i.redd.it/5pzwp7u9jji61.jpg" alt="drawing" width="200"/>
+
+_Chickadees at Christmas_
+
+
+
+_Into the Everlasting Dawn_
