@@ -1,10 +1,8 @@
-# Why, hello :)
+# Hi, I'm Alex :)
 
-Nice to meet you. You seem to have stumbled upon my dev page on the internet. Lucky you!
+Nice to meet you. This is one of my little spaces on the web. Welcome!
 
-The purpose of this site is to showcase a bit about my work as a software engineer and product person.
-
-I have 10+ years of experience in technology development. I enjoy developing software that delights users, meets business needs, and has a positive impact.
+My goal with this site is to showcase some of the things I have made or written. Feel free to poke around!
 
 # Side projects
 
@@ -12,17 +10,22 @@ I have 10+ years of experience in technology development. I enjoy developing sof
 
 ## Dermatology skin classification (Python, Jupyter)
 
-https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496
+[Demo](https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496)
 
 ## Diffie-Hellman toy implementation (Vue.js, HTML)
 
-https://replit.com/@liuman2/DiffieHellmanDemo
+[Demo](https://replit.com/@liuman2/DiffieHellmanDemo)
 
 ## Forward error correction toy implementation (Javascript, HTML)
 
-https://replit.com/@liuman2/ForwardErrorCorrectionDemo
+[Demo](https://replit.com/@liuman2/ForwardErrorCorrectionDemo)
 
 # Writing
 
-Here are some pieces that I am particularly proud of:
+Here are some pieces of online writing that I put effort into:
 
+[No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
+
+[The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
+
+[Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
