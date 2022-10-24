@@ -36,6 +36,10 @@ Here are some pieces of online writing that I put effort into:
 
 [Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
 
+# Business Stuff
+
+I am open to either engineering or product consulting opportunities. You can find my resume on LinkedIn [here](https://www.linkedin.com/in/yuningalexliu/).
+
 # Random
 
 ## Printmaking
