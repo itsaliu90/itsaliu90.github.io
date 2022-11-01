@@ -28,6 +28,12 @@ Here my goal was to better understand Forward Error Correction technology by mak
 
 [Demo and Code](https://replit.com/@liuman2/ForwardErrorCorrectionDemo)
 
+## Fictional telehealth company splash page (Figma)
+
+Here my goal was to get better at web design and Figma.
+
+<img src="https://github.com/yuningalexliu/yuningalexliu.github.io/blob/main/design1.png" alt="design" width="800"/>
+
 # Writing
 
 Here are some pieces of online writing that I put effort into:
