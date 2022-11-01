@@ -32,7 +32,7 @@ Here my goal was to better understand Forward Error Correction technology by mak
 
 Here my goal was to get better at web design and Figma.
 
-<img src="https://github.com/yuningalexliu/yuningalexliu.github.io/blob/main/design1.png" alt="design" width="600"/>
+<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/design1.png" alt="design" width="800"/>
 
 # Writing
 
