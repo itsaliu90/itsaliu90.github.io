@@ -6,7 +6,19 @@ Nice to meet you. This is one of my little spaces on the web. Welcome!
 
 My goal with this site is to showcase some of the things I have made or written. Feel free to poke around!
 
-# Projects
+# Writing
+
+Here are some pieces of online writing that I put effort into:
+
+[Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
+
+[No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
+
+[The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
+
+[Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
+
+# Creative Projects
 
 I like to do little side projects to experiment with new technologies and put my learning into practice. I decided to implement a torus with external shading.
 
@@ -41,18 +53,6 @@ Here my goal was to better understand Forward Error Correction technology by mak
 Here my goal was to get better at web design and Figma.
 
 <img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/design1.png" alt="design" width="800"/>
-
-# Writing
-
-Here are some pieces of online writing that I put effort into:
-
-[Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
-
-[No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
-
-[The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
-
-[Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
 
 # Business Stuff
 
