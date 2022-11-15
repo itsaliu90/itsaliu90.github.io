@@ -8,7 +8,7 @@ My goal with this site is to showcase some of the things I have made or written.
 
 # Projects
 
-I like to do little side projects to experiment with new technologies and put my learning into practice.
+I like to do little side projects to experiment with new technologies and put my learning into practice. I decided to implement a torus with external shading.
 
 ## Three.js and WebGL toy implementation (Javascript)
 
