@@ -24,6 +24,10 @@ Here are some pieces of online writing that I put effort into:
 
 Here my goal was to count the number of times I blink each minute as a way of measuring attention.
 
+<iframe width="420" height="315"
+src="https://youtu.be/7eaCIUroUBE">
+</iframe>
+
 [Demo and Code](https://replit.com/@liuman2/blinkblink)
 
 I like to do little side projects to experiment with new technologies and put my learning into practice. I decided to implement a torus with external shading.
