@@ -10,6 +10,14 @@ My goal with this site is to showcase some of the things I have made or written.
 
 I like to do little side projects to experiment with new technologies and put my learning into practice.
 
+## Three.js and WebGL toy implementation (Javascript)
+
+Here my goal was to play with building 3D models directly in the web browser using three.js.
+
+<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/torus.gif">
+
+[Code](https://replit.com/@liuman2/3JS-Demo#script.js)
+
 ## Dermatology skin classification (Python, Jupyter, Keras)
 
 Here my goal was to develop a machine learning model that could classify skin images into one of eight different disease categories. The model achieved >50% accuracy, which isn't great, but better than random guessing.
