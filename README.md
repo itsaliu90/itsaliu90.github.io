@@ -24,6 +24,7 @@ Here are some pieces of online writing that I put effort into:
 
 Here my goal was to count the number of times I blink each minute as a way of measuring attention.
 
+Demo below (click the image for a link to Youtube since Markdown doesn't support direct video embedding).
 [![Demo](https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/video-front.png)](https://youtu.be/7eaCIUroUBE)
 
 [Code](https://replit.com/@liuman2/blinkblink)
