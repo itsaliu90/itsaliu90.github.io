@@ -20,6 +20,12 @@ Here are some pieces of online writing that I put effort into:
 
 # Creative Projects
 
+## Blink Counter (Javascript, HTML, Tensorflow, D3)
+
+Here my goal was to count the number of times I blink each minute as a way of measuring attention.
+
+[Demo and Code](https://replit.com/@liuman2/blinkblink)
+
 I like to do little side projects to experiment with new technologies and put my learning into practice. I decided to implement a torus with external shading.
 
 ## Three.js and WebGL toy implementation (Javascript)
