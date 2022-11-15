@@ -40,7 +40,7 @@ Here my goal was to play with building 3D models directly in the web browser usi
 
 Here my goal was to develop a machine learning model that could classify skin images into one of eight different disease categories. The model achieved >50% accuracy, which isn't great, but better than random guessing.
 
-<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/skin.png">
+<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/skin.png" width="400">
 
 [Demo and Code](https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496)
 
