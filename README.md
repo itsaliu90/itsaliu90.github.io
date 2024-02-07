@@ -16,8 +16,6 @@ Here are some pieces of online writing that I put effort into:
 
 [The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
-[Wellness vs. Disease Management ROI for Employers](https://refactoredhealth.substack.com/p/wellness-vs-disease-management-roi)
-
 # Creative Projects
 
 ## Blink Counter (Javascript, HTML, Tensorflow, D3)
@@ -67,7 +65,7 @@ Here my goal was to get better at web design and Figma.
 
 # Business Stuff
 
-I am open to either engineering or product consulting opportunities. You can find my resume on LinkedIn [here](https://www.linkedin.com/in/yuningalexliu/).
+I do consulting via [](https://www.linkedin.com/in/yuningalexliu/).
 
 # Random
 
@@ -76,5 +74,8 @@ I am open to either engineering or product consulting opportunities. You can fin
 Sometimes I like to do printmaking for fun.
 
 <img src="https://i.redd.it/5pzwp7u9jji61.jpg" alt="drawing" width="200"/>
-
 _Chickadees at Christmas_
+
+## 3D Printing/CAD
+
+<img src="https://raw.githubusercontent.com/itsaliu90/itsaliu90.github.io/main/goomba.png">
