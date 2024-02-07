@@ -74,8 +74,11 @@ I do consulting via [](https://www.linkedin.com/in/yuningalexliu/).
 Sometimes I like to do printmaking for fun.
 
 <img src="https://i.redd.it/5pzwp7u9jji61.jpg" alt="drawing" width="200"/>
-_Chickadees at Christmas_
+
+Chickadees at Christmas
 
 ## 3D Printing/CAD
 
 <img src="https://raw.githubusercontent.com/itsaliu90/itsaliu90.github.io/main/goomba.png">
+
+Goomba Keycap
