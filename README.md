@@ -63,10 +63,6 @@ Here my goal was to get better at web design and Figma.
 
 <img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/design1.png" alt="design" width="800"/>
 
-# Business Stuff
-
-I do consulting via [](https://www.linkedin.com/in/yuningalexliu/).
-
 # Random
 
 ## Printmaking
