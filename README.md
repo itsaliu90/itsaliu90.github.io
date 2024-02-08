@@ -18,13 +18,15 @@ Here are some pieces of online writing that I put effort into:
 
 # Creative Projects
 
-## AI Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
+## Multi-modal Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
 
 Here my goal was to play with multi-modal models to generate a coherent story. 
 
 Demo below (password is "turtletown").
 
 [Demo](https://storybookgenerator.replit.app/auth)
+
+<img src="https://raw.githubusercontent.com/itsaliu90/itsaliu90.github.io/main/storybook.png" width="800">
 
 ## Blink Counter (Javascript, HTML, Tensorflow, D3)
 
