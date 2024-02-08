@@ -1,4 +1,4 @@
-# Hi, I'm Alex :)
+# Hi, I'm Alex Liu :)
 
 <img src="https://github.com/yuningalexliu/yuningalexliu.github.io/blob/main/profile.jpeg?raw=true" alt="profile_pic" width="200"/>
 
@@ -17,6 +17,14 @@ Here are some pieces of online writing that I put effort into:
 [The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
 # Creative Projects
+
+## AI Storybook Generator
+
+Here my goal was to play with multi-modal models to generate a coherent story. 
+
+Demo below (password is "turtletown").
+
+[Demo](https://storybookgenerator.replit.app/auth)
 
 ## Blink Counter (Javascript, HTML, Tensorflow, D3)
 
