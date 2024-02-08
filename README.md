@@ -16,7 +16,7 @@ Here are some pieces of online writing that I put effort into:
 
 [The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
-# Creative Projects
+# Software
 
 ## Multi-modal Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
 
@@ -73,7 +73,7 @@ Here my goal was to get better at web design and Figma.
 
 <img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/design1.png" alt="design" width="800"/>
 
-# Random
+# Creative
 
 ## Printmaking
 
