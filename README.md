@@ -18,7 +18,7 @@ Here are some pieces of online writing that I put effort into:
 
 # Creative Projects
 
-## AI Storybook Generator
+## AI Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
 
 Here my goal was to play with multi-modal models to generate a coherent story. 
 
