@@ -8,7 +8,7 @@ My goal with this site is to showcase some of the things I have made or written.
 
 # Writing
 
-Here are some pieces of online writing that I put effort into:
+Here are some essays I've written.
 
 [Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
 
