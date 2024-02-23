@@ -1,17 +1,8 @@
 # Hi, I'm Alex :)
 Nice to meet you! This is one of my little spaces on the web. Feel free to poke around!
 
-# Writing
-
-Here are some essays I've written.
-
-[Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
-
-[No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
-
-[The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
-
 # Software
+Just some things I've built.
 
 ## Lofi Radio (HTML, Javascript, Tone.js)
 
@@ -71,6 +62,16 @@ Here my goal was to better understand Forward Error Correction technology by mak
 Here my goal was to get better at web design and Figma.
 
 <img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/design1.png" alt="design" width="800"/>
+
+# Writing
+
+Just some things I've written...
+
+[Why Pricing in Healthcare is Hard](https://www.getrevue.co/profile/ayliu22/issues/why-pricing-is-hard-in-healthcare-1111394)
+
+[No-Code Tools for Healthcare Operations](https://refactoredhealth.substack.com/p/no-code-tools-for-healthcare-operations)
+
+[The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
 # Creative
 
