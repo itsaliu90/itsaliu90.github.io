@@ -6,6 +6,8 @@ Just some things I've built.
 
 ## Lofi Radio (HTML, Javascript, Tone.js)
 
+<img src="https://raw.githubusercontent.com/itsaliu90/itsaliu90.github.io/main/train.png" width="800">
+
 [Demo](https://itsaliu90.github.io/lofi/)
 
 ## Multi-modal Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
@@ -33,17 +35,17 @@ I like to do little side projects to experiment with new technologies and put my
 
 Here my goal was to play with building 3D models directly in the web browser using three.js.
 
-<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/torus.gif">
-
 [Code](https://replit.com/@liuman2/3JS-Demo#script.js)
+
+<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/torus.gif">
 
 ## Dermatology skin classification (Python, Jupyter, Keras)
 
 Here my goal was to develop a machine learning model that could classify skin images into one of eight different disease categories. The model achieved >50% accuracy, which isn't great, but better than random guessing.
 
-<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/skin.png" width="400">
-
 [Demo and Code](https://www.kaggle.com/code/yuningalexliu/dermatology-image-classification/notebook?scriptVersionId=7052496)
+
+<img src="https://raw.githubusercontent.com/yuningalexliu/yuningalexliu.github.io/main/skin.png" width="400">
 
 ## Diffie-Hellman toy implementation (Vue.js, HTML)
 
