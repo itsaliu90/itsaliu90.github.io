@@ -1,7 +1,4 @@
-# Hi, I'm Alex Liu :)
-
-<img src="https://github.com/yuningalexliu/yuningalexliu.github.io/blob/main/profile.jpeg?raw=true" alt="profile_pic" width="200"/>
-
+# Hi, I'm Alex :)
 Nice to meet you! This is one of my little spaces on the web. Feel free to poke around!
 
 # Writing
@@ -15,6 +12,10 @@ Here are some essays I've written.
 [The Most Important Feature of Software-based Digital Health Products](https://refactoredhealth.substack.com/p/the-most-important-feature-of-software)
 
 # Software
+
+## Lofi Radio (HTML, Javascript, Tone.js)
+
+[Demo](https://itsaliu90.github.io/lofi/)
 
 ## Multi-modal Storybook Generator (OpenAI APIs like DALL-E, Javascript, HTML, CSS)
 
