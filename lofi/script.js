@@ -3,6 +3,9 @@ let initialProgression = [["C4", "E4", "G4", "B4"], ["A3", "C4", "E4", "G4"], ["
 let currentProgression = initialProgression; // Assume initialProgression is defined
 let chordsSequence;
 
+let neverSurrender = new Tone.Player("neversurrender.mp3").toDestination();
+neverSurrender.loop = true;
+
 function createKick() {
   let kick = new Tone.MembraneSynth({
     pitchDecay: 0.05,
@@ -163,8 +166,10 @@ document.getElementById('playButton').addEventListener('click', async () => {
   await Tone.start();
   if (Tone.Transport.state === 'stopped') {
     Tone.Transport.start();
+    neverSurrender.start();
   } else {
     Tone.Transport.stop();
+    neverSurrender.stop();
     index = 0; // Reset the loop index on stop
     document.getElementById('currentChord').innerText = "Current Chord: None"
   }
